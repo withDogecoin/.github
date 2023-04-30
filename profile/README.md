@@ -1,12 +1,8 @@
-## Hi there 👋
+## Technical skills
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="left"> 
+ <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ <img alt="Spring Webflux" src="https://img.shields.io/badge/SpringWebflux-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+ <img alt="Kotest" src="https://img.shields.io/badge/Kotest-12133F?style=for-the-badge&logo=Kotlin&logoColor=blue">
+ <img alt="JIRA" src="https://img.shields.io/badge/mkdocs-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</p>
