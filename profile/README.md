@@ -1,4 +1,6 @@
-## Technical skills
+## With Doge
+
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/47518272/235338853-5d3fd09d-39f3-42c6-a0e7-6487ac78f1d5.gif" alt="BAEKJungHo's Maker Card" />
 
 <p align="left"> 
  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
